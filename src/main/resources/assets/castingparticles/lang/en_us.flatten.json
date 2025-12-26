@@ -1,0 +1,10 @@
+{
+  "castingparticles": {
+    "book": {
+      "patterns": {
+        "spells": {
+        }
+      }
+    }
+  }
+}
